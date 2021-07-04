@@ -37,7 +37,7 @@ Manual Testing
 
 ## Deployment
 
-I have deployed this project on Netlify domain
+I have deployed this project on Netlify domain https://wonderful-heisenberg-8dd416.netlify.app/#
 
 This service is very convenient, since you just need to select your repository in github and the deployment process will automatically go through
 
