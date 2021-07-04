@@ -42,7 +42,7 @@ const getLatLng = (latLng) => ({ lat: latLng.lat(), lng: latLng.lng() })
 
 startButton.addEventListener('click', () => {
   if (!centerChanged) {
-    alert('drag the marker on the map, and try again')
+    alert('Drag the marker on the map, and try again!')
     return
   }
 
